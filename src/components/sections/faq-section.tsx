@@ -23,7 +23,7 @@ const faqItems = [
     answer: "Absolutely! We love working with innovative startups to build their brand from the ground up. We also partner with established enterprises to help them innovate and stay ahead of the curve."
   },
   {
-    question: "What makes Corporate Canvas different?",
+    question: "What makes Company G?",
     answer: "Our key differentiators are our partnership approach, our passion for digital excellence, and our commitment to delivering measurable results. We don't just complete projects; we build long-term relationships to help our clients achieve sustained growth."
   }
 ];
